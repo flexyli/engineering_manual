@@ -1,3 +1,6 @@
 public sub mainsub()
-  msgbox "hello world"
+  dim a as string
+  a="hello world"
+  msgbox a
+  
 end sub
