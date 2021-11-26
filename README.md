@@ -7,3 +7,5 @@
 
 ## markdown语法的测试
 $$F_r = \frac{A}{B}$$
+
+**很遗憾，github并不支持mermaid语法及公式**这是一个硬伤，所以以github为平台做工程师手册电子版是不可行。
